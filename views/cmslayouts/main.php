@@ -2,11 +2,11 @@
     <div class="container wow fadeInUp delay-03s">
       <div class="row">
         <div class="logo text-center">
-          <img src="img/logo.png" alt="logo" width="150">
-          <h2>We zijn bezig met een nieuwe website op te stellen!! Comming Soon</h2>
+          <img src="images/logo.png" alt="logo" width="150">
+          <h2>We zijn bezig met een nieuwe website op te maken!! Comming Soon!</h2>
         </div>
 
-        <div id="countdown" data-wow-delay=".3s" data-date="Dec 26, 2016 06:00:00"></div>
+        <div id="countdown" data-wow-delay=".3s" data-date="Aug 01, 2019 00:00:00"></div>
         <h2 class="subs-title text-center">Aarzel niet me te contacteren voor een dringende herstelling</h2>
       </div>
     </div>
@@ -16,27 +16,43 @@
           <div class="social">
             <ul>
               <li>
-                <a href=""><i class="fa fa-facebook"></i></a>
+                <a href="https://www.facebook.com/Preventic/"><i class="fa fa-facebook"></i></a>
               </li>
               <li>
-                <a href=""><i class="fa fa-twitter"></i></a>
+                <a href="mailto:info@preventic.be"><i class="fa fa-envelope"></i></a>
               </li>
-              <li>
-                <a href=""><i class="fa fa-linkedin"></i></a>
+                            <li>
+                <a href="tel:0487178424"><i class="fa fa-phone"></i></a>
               </li>
             </ul>
           </div>
         </div>
       </div>
     </section>
+    
+   
     <section id="about" class="section-padding">
       <div class="container">
         <div class="row">
           <div class="col-md-12 col-sm-12 text-center">
             <div class="about-title">
-              <h2>About Us</h2>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium </br>voluptatum deleniti atque corrupti quos dolores e</p>
+              <h2>0487-17 84 24 </h2>
+              <p>Aarzel niet me te contacteren via mail of telefoon. Preventic 
+              verzorgt volgende zaken:
+              <ul>
+                  <li>onderhoud centrale verwarming</li>
+                  <li>schoorsteenveger</li>
+                  <li>onderhoud machineparken</li>
+                  <li>verdeler pelletkachels(thermorossi & extraflame)</li>
+              </ul>
             </div>
+              
+          </div>
+        </div></div>
+    </section>
+              
+<!--              
+              
             <div class="col-md-3 col-sm-6 col-xs-12 wow fadeInUp delay-02s">
               <div class="img">
                 <i class="fa fa-refresh"></i>
@@ -109,4 +125,4 @@
         </div>
       </div>
     </div>
-  </div>
+  </div>-->

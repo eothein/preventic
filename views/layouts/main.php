@@ -23,7 +23,7 @@ $this->beginPage();
     <body>
     <?php $this->beginBody() ?>
     <?= $content; ?>
-    <footer class="footer">
+<!--    <footer class="footer">
         <div class="container">
                 <ul>
                     <li>This website is made with <a href="https://luya.io" target="_blank">LUYA</a></li>
@@ -32,7 +32,7 @@ $this->beginPage();
                     <li><a href="https://www.youtube.com/channel/UCfGs4sHk-D3swX0mhxv98RA" target="_blank"><i class="fa fa-youtube"></i></a></li>
                 </ul>
         </div>
-    </footer>
+    </footer>-->
     <?php $this->endBody() ?>
     </body>
 </html>
